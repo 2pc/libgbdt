@@ -1,6 +1,6 @@
 # libgbdt
 
-Non original ! This code  Imported  From Other Place,  and  only a little Modify ,Some Annotation
+Non original ! This code  imported  from other place,  and  only a little modify, some annotation
 
 A implement of LS_Boost Algorithm,mentioned in [Greedy Function Approximation: A Gradient Boosting Machine.](https://statweb.stanford.edu/~jhf/ftp/trebst.pdf)
 
