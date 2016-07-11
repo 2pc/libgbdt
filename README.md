@@ -1,5 +1,10 @@
 # libgbdt
 
+Non original ! The code  Forked From Other Place,  and add some Annotation
+
+A implement of LS_Boost in [Greedy Function Approximation: A Gradient Boosting Machine.](https://statweb.stanford.edu/~jhf/ftp/trebst.pdf)
+
+
 ```
 make clean 
 make all
