@@ -27,8 +27,9 @@ cd output/test
  	{NULL, 0, NULL, 0}};
 ```
 
-结构体函数定义
+结构体函数定义  --gradient_boosting.h
 
+```
 #include "stdio.h"
 #include "string.h"
 #include "memory.h"
@@ -252,4 +253,4 @@ typedef struct
  int free_model(gbdt_model_t*& gbdt_model);
  
  void R_qsort_I(double *v, int *I, int i, int j);
-
+```
